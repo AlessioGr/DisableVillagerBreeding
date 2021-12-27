@@ -1,0 +1,9 @@
+name: DisableVillagerBreeding
+version: '${version}'
+main: rocks.gravili.disablevillagerbreeding.DisableVillagerBreeding
+api-version: 1.17
+authors: [ AlessioGR ]
+permissions:
+  disablevillagerbreeding.bypass:
+    default: false
+    description: Bypasses the villager breeding restriction
